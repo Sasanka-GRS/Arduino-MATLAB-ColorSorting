@@ -1,5 +1,0 @@
-ArduinoInitializations
-ColorDetection
-MotorActuation
-ResetMotors
-%IRSensingAndDCActuation
